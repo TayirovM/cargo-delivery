@@ -1,0 +1,4 @@
+Django
+Django Rest Framework
+django-extensions
+python-jose
