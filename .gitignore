@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+.npm/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+
+# React
+build/
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
